@@ -1,0 +1,2 @@
+java -jar rocksdb-1.0-SNAPSHOT-jar-with-dependencies.jar ./rocksdb/tablePolicies >tablePolicy.txt
+java -jar rocksdb-1.0-SNAPSHOT-jar-with-dependencies.jar ./martNameDbPolicies > martNameDbPolicies.txt
